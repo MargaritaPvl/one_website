@@ -1,0 +1,151 @@
+.title {
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+.title span {
+    color: #1e0d4b;
+    font-size: 40px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main img {
+    max-width: 600px;
+}
+.main-info {
+    max-width: 500px;
+}
+.main-info ul {
+    padding-left: 17px;
+}
+.main-info a {
+    font-size: 20px ;
+color:#2d0b7c;
+text-decoration: none;
+}
+body{
+    background-color: #966372;
+}
+.form {
+    max-width: 420px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+
+}
+.form h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.form input {
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 10px;
+    margin-bottom:20px ;
+    border: 2px solid rgb(131, 131, 131);
+}
+.form button {
+background-color: #1b1a57;
+padding: 16px;
+border-radius: 10px;
+border: 2px solid rgb(131, 131, 131);
+color: white;
+}
+.title {
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+.title span {
+    color: #1e114d;
+    font-size: 40px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main img {
+    max-width: 600px;
+}
+.main-info {
+    max-width: 500px;
+}
+.main-info ul {
+    padding-left: 17px;
+}
+.main-info a {
+    font-size: 20px ;
+color:#180a57;
+text-decoration: none;
+}
+body{
+    background-color: #bab5db;
+}
+.form {
+    max-width: 420px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+
+}
+.form h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.form input {
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 10px;
+    margin-bottom:20px ;
+    border: 2px solid rgb(12, 9, 53);
+    font-style: oblique;
+}
+.form button {
+background-color: #211b7c;
+padding: 16px;
+border-radius: 10px;
+border: 2px solid rgb(10, 4, 43);
+color: white;
+}
+
+.main_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_2 img {
+    max-width: 600px; 
+}
+.main-info_2 {
+    max-width: 500px;
+}
+.main-info ul {
+    padding-left: 17px;
+}
+.main-info a {
+    font-size: 20px ;
+color:#180a57;
+text-decoration: none;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    text-transform: uppercase;
+}
+
+.adress {
+    list-style-image: url(../img/free-icon-font-refresh-3917766.svg);
+ }
+
+ .mail {
+    list-style-image: url(../img/hourglass-start_9586236.svg);
+ }
+ .phone{
+    list-style-image: url(../img/circle-phone_8034062.svg);
+ }
